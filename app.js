@@ -108,7 +108,7 @@ This tactic shouldn’t be confused with the sort of mutual understanding Diplom
      Executives are representatives of tradition and order, utilizing their understanding of what is right, wrong and socially acceptable to bring families and communities together. Embracing the values of honesty, dedication and dignity, people with the Executive personality type are valued for their clear advice and guidance, and they happily lead the way on difficult paths. Taking pride in bringing people together, Executives often take on roles as community organizers, working hard to bring everyone together in celebration of cherished local events, or in defense of the traditional values that hold families and communities together.
      `)
    
-     const personalities=[theMediator, theAdvocate, theLogician ,theArchitect , theAdventurer, theDefender, theVirtu, theLogis,theCamp, thePro,theDeb, theCom, theEnter, theCon, theEnt, theExec];
+     const personalities=[theMediator, theAdvocate, theLogician ,theArchitect , theAdventurer, theDefender, theVirtu, theLogis, theCamp, thePro, theDeb, theCom, theEnter, theCon, theEnt, theExec];
 
 let index = 0
 
