@@ -1,0 +1,28 @@
+#type{
+text-align: center;
+color: black;
+transform-text: uppercase;
+font-size: : 30px;
+}
+#name{
+text-align:  center;
+color: blue;
+opacity: 0.4;
+font-size: 25px; 
+}
+#description{
+text-align: justify;
+background-color: aliceblue;
+font-size:  20px;
+}
+#main{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19); 
+}
+.div{
+    width: 245px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+
+}
